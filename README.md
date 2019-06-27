@@ -29,30 +29,30 @@ Although R-packages should automatically be installed and errors raised if they 
 
 CRAN:
 
-arcdiagram
-caTools
-data.table
-dendextend
-factoextra
-ggplot2
-heatmap.plus
-openxlsx
-pamr
-pathview
-RColorBrewer
-reshape
-scales
-VennDiagram
+    arcdiagram
+    caTools
+    data.table
+    dendextend
+    factoextra
+    ggplot2
+    heatmap.plus
+    openxlsx
+    pamr
+    pathview
+    RColorBrewer
+    reshape
+    scales
+    VennDiagram
 
 
 
 Bioconductor:
     
-biomaRt
-limma
-sva
-UpSetR
-WGCNA
+    biomaRt
+    limma
+    sva
+    UpSetR
+    WGCNA
 
 
 
