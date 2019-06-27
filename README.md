@@ -29,25 +29,26 @@ Although R-packages should automatically be installed and errors raised if they 
 
 CRAN:
 
-    arcdiagram
     caTools
     data.table
     dendextend
     factoextra
     ggplot2
+    glmnet
     heatmap.plus
-    openxlsx
     pamr
-    pathview
     RColorBrewer
+    randomForest
     reshape
+    rms
     scales
-    VennDiagram
-
-
-
-Bioconductor:
+    varSelRF
+   
+   
+   
+Bioconductor:   
     
+    arcdiagram
     biomaRt
     limma
     sva
