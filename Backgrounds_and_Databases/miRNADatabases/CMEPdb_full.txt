@@ -1,0 +1,626 @@
+miRNA	Source	Info	Dir	Contrast
+hsa-let-7a-2-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, down	Her2 vs TNBC, LumB vs TNBC
+hsa-let-7a-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up, up	Her2 vs TNBC, LumA vs TNBC, LumB vs TNBC
+hsa-let-7b-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-let-7c-5p	CMEP	GSE41526_BCvsNorm, GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	down, up, up, up	BC vs Norm, Her2 vs TNBC, LumA vs TNBC, LumB vs TNBC
+hsa-let-7e-5p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-let-7f-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up, up	LumB vs TNBC, Her2 vs TNBC, LumA vs TNBC
+hsa-let-7g-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-let-7i-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-100-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-100-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-101-3p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-101-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-103-3p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-103a-3p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up	LumA vs TNBC, LumB vs TNBC
+hsa-miR-103b	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-106a-5p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-106a-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-106b-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-107	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-10a-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	up, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-10b-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up, up	LumB vs TNBC, Her2 vs TNBC, LumA vs TNBC
+hsa-miR-1178-3p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-1184	CMEP	GSE98181_BCvsNorm, GSE41526_BCvsNorm	down, up	BC vs Norm, BC vs Norm
+hsa-miR-1197	CMEP	GSE58606_HER2vsTNBC, GSE41526_BCvsNorm	up, up	Her2 vs TNBC, BC vs Norm
+hsa-miR-1200	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-1205	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-122-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-1225-5p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-1226-3p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-1226-5p	CMEP	GSE98181_BCvsNorm	down	BC vs Norm
+hsa-miR-1229-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-1231	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-1234-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-124-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-1244	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1245a	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1245b-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1247-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-1251-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1255b-5p	CMEP	GSE41526_BCvsNorm, GSE58606_HER2vsTNBC	down, up	BC vs Norm, Her2 vs TNBC
+hsa-miR-1256	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	up, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-1258	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-125a-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-125a-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-miR-125b-2-3p	CMEP	GSE53179_BCvsNorm	down	BC vs Norm
+hsa-miR-125b-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up, up	LumB vs TNBC, Her2 vs TNBC, LumA vs TNBC
+hsa-miR-126-3p	CMEP	GSE22981_BCvsNorm, GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up, up, up	BC vs Norm, LumA vs TNBC, LumB vs TNBC, Her2 vs TNBC
+hsa-miR-126-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up, up	LumB vs TNBC, Her2 vs TNBC, LumA vs TNBC
+hsa-miR-1260a	CMEP	GSE53179_BCvsNorm	up	BC vs Norm
+hsa-miR-1261	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	down, down	LumB vs TNBC, LumA vs TNBC
+hsa-miR-1268a	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1268b	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-127-3p	CMEP	GSE41526_BCvsNorm, GSE58606_HER2vsTNBC	up, up	BC vs Norm, Her2 vs TNBC
+hsa-miR-127-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1273g-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1275	CMEP	GSE22981_BCvsNorm	down	BC vs Norm
+hsa-miR-1276	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-1283	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1284	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-1286	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1287-5p	CMEP	GSE22981_BCvsNorm	down	BC vs Norm
+hsa-miR-1288-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1289	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-129-2-3p	CMEP	GSE58606_HER2vsTNBC, GSE22981_BCvsNorm, GSE49035_S3vsS2	up, up, down	Her2 vs TNBC, BC vs Norm, Stage3 vs Stage2
+hsa-miR-1292-5p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-1294	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-1295a	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-1295b-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1296-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-1297	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-1298-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1300	CMEP	GSE41526_BCvsNorm	down	BC vs Norm
+hsa-miR-1304-5p	CMEP	GSE22981_BCvsNorm, GSE68373_MEvsNoME	down, down	BC vs Norm, Metastasis
+hsa-miR-130a-3p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-130b-3p	CMEP	GSE41526_BCvsNorm, GSE58606_LumAvsTNBC	down, down	BC vs Norm, LumA vs TNBC
+hsa-miR-132-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-132-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-1321	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, down, down	Her2 vs TNBC, LumA vs TNBC, LumB vs TNBC
+hsa-miR-133b	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-136-5p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-137	CMEP	GSE58606_LumAvsTNBC, GSE49035_REvsNoRE, GSE49035_S3vsS2	up, down, down	LumA vs TNBC, Relaps, Stage3 vs Stage2
+hsa-miR-139-3p	CMEP	GSE53179_BCvsNorm	up	BC vs Norm
+hsa-miR-140-3p	CMEP	GSE58606_LumBvsTNBC, GSE49035_REvsNoRE	up, down	LumB vs TNBC, Relaps
+hsa-miR-140-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-141-3p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-142-5p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-143-3p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-144-3p	CMEP	GSE49035_REvsNoRE, GSE58606_LumBvsTNBC	down, up	Relaps, LumB vs TNBC
+hsa-miR-144-5p	CMEP	GSE58606_HER2vsTNBC, GSE68373_MEvsNoME	up, down	Her2 vs TNBC, Metastasis
+hsa-miR-145-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-146a-5p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-147b	CMEP	GSE49035_S3vsS2, GSE49035_REvsNoRE	down, down	Stage3 vs Stage2, Relaps
+hsa-miR-148a-3p	CMEP	GSE22981_BCvsNorm, GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	down, up, up, up	BC vs Norm, LumA vs TNBC, Her2 vs TNBC, LumB vs TNBC
+hsa-miR-148b-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-149-5p	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-150-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	down, up, down	LumA vs TNBC, Her2 vs TNBC, LumB vs TNBC
+hsa-miR-151a-3p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-151a-5p	CMEP	GSE41526_BCvsNorm, GSE22981_BCvsNorm	up, down	BC vs Norm, BC vs Norm
+hsa-miR-1538	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-154-3p	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-155-5p	CMEP	GSE22981_BCvsNorm	down	BC vs Norm
+hsa-miR-15a-5p	CMEP	GSE41526_BCvsNorm, GSE58606_LumBvsTNBC	up, up	BC vs Norm, LumB vs TNBC
+hsa-miR-15b-5p	CMEP	GSE41526_BCvsNorm, GSE58606_LumBvsTNBC	up, up	BC vs Norm, LumB vs TNBC
+hsa-miR-15b-3p	CMEP	GSE53179_BCvsNorm	up	BC vs Norm
+hsa-miR-16-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-17-3p	CMEP	GSE58606_HER2vsTNBC, GSE49035_REvsNoRE	up, down	Her2 vs TNBC, Relaps
+hsa-miR-17-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-181a-5p	CMEP	GSE22981_BCvsNorm	down	BC vs Norm
+hsa-miR-181a-3p	CMEP	GSE41526_BCvsNorm	down	BC vs Norm
+hsa-miR-181b-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-181c-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-181d-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-182-5p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-1825	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-183-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-185-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-187-3p	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-187-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, down	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-188-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-18a-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-18b-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-191-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-miR-1915-5p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-192-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-193a-3p	CMEP	GSE58606_LumBvsTNBC, GSE41526_BCvsNorm	up, down	LumB vs TNBC, BC vs Norm
+hsa-miR-194-3p	CMEP	GSE41526_BCvsNorm	down	BC vs Norm
+hsa-miR-195-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-196a-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-199a-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-199a-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up, up	LumB vs TNBC, Her2 vs TNBC, LumA vs TNBC
+hsa-miR-199b-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up, up	LumA vs TNBC, LumB vs TNBC, Her2 vs TNBC
+hsa-miR-19b-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-19b-1-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-200b-3p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-202-5p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-205-5p	CMEP	GSE49035_REvsNoRE, GSE58606_LumAvsTNBC	down, up	Relaps, LumA vs TNBC
+hsa-miR-2053	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-2054	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	up, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-206	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-208a-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-208a-5p	CMEP	GSE98181_BCvsNorm	up	BC vs Norm
+hsa-miR-208b-3p	CMEP	GSE68373_MEvsNoME, GSE58606_LumAvsTNBC, GSE49035_S3vsS2	down, down, down	Metastasis, LumA vs TNBC, Stage3 vs Stage2
+hsa-miR-20a-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-20b-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-2110	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-2114-5p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-2116-5p	CMEP	GSE49035_S3vsS2, GSE58606_LumBvsTNBC	up, down	Stage3 vs Stage2, LumB vs TNBC
+hsa-miR-2116-3p	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-212-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-214-3p	CMEP	GSE49035_S3vsS2, GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	down, up, up	Stage3 vs Stage2, Her2 vs TNBC, LumB vs TNBC
+hsa-miR-215-5p	CMEP	GSE58606_LumAvsTNBC, GSE41526_BCvsNorm	down, down	LumA vs TNBC, BC vs Norm
+hsa-miR-216a-5p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-216b-5p	CMEP	GSE41526_BCvsNorm, GSE98181_BCvsNorm	down, up	BC vs Norm, BC vs Norm
+hsa-miR-218-5p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-218-1-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-218-2-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-219a-2-3p	CMEP	GSE58606_HER2vsTNBC, GSE49035_S3vsS2	up, down	Her2 vs TNBC, Stage3 vs Stage2
+hsa-miR-222-3p	CMEP	GSE53179_BCvsNorm	up	BC vs Norm
+hsa-miR-222-5p	CMEP	GSE58606_LumBvsTNBC, GSE41526_BCvsNorm	up, down	LumB vs TNBC, BC vs Norm
+hsa-miR-223-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-2277-3p	CMEP	GSE49035_REvsNoRE, GSE58606_LumAvsTNBC	up, up	Relaps, LumA vs TNBC
+hsa-miR-2355-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-23a-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-23b-5p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-23c	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-24-2-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-2467-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-25-5p	CMEP	GSE41526_BCvsNorm, GSE49035_S3vsS2	down, down	BC vs Norm, Stage3 vs Stage2
+hsa-miR-2681-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-2682-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-26a-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-miR-26b-3p	CMEP	GSE53179_BCvsNorm	down	BC vs Norm
+hsa-miR-26b-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up, up	LumA vs TNBC, LumB vs TNBC, Her2 vs TNBC
+hsa-miR-27b-3p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-28-3p	CMEP	GSE58606_LumAvsTNBC, GSE49035_REvsNoRE	up, up	LumA vs TNBC, Relaps
+hsa-miR-28-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-219b-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-299-5p	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-29a-3p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-29b-2-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-29b-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up, up	Her2 vs TNBC, LumA vs TNBC, LumB vs TNBC
+hsa-miR-29c-3p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up	LumA vs TNBC, LumB vs TNBC
+hsa-miR-29c-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-301a-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-302a-3p	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-302b-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-302b-5p	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-3074-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-30a-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-30a-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up	LumA vs TNBC, LumB vs TNBC
+hsa-miR-30b-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-30c-2-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-30c-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up	LumA vs TNBC, LumB vs TNBC
+hsa-miR-30d-5p	CMEP	GSE58606_LumBvsTNBC, GSE98181_BCvsNorm, GSE58606_LumAvsTNBC	up, up, up	LumB vs TNBC, BC vs Norm, LumA vs TNBC
+hsa-miR-3117-3p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-3119	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, down, down	Her2 vs TNBC, LumB vs TNBC, LumA vs TNBC
+hsa-miR-3121-3p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-3124-5p	CMEP	GSE49035_REvsNoRE, GSE98181_BCvsNorm	down, down	Relaps, BC vs Norm
+hsa-miR-3124-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, down	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-3125	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3126-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3128	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-3130-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3135a	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-3135b	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3140-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3141	CMEP	GSE98181_BCvsNorm	up	BC vs Norm
+hsa-miR-3144-5p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-3151-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-3152-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3158-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-3163	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3165	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-3174	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3177-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3179	CMEP	GSE58606_HER2vsTNBC, GSE68373_MEvsNoME	up, up	Her2 vs TNBC, Metastasis
+hsa-miR-3182	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3184-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, down	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-3184-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, down	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-3187-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3189-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-3191-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-3191-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-3192-5p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-3193	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3194-5p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-32-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-320a	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-320b	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-320c	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-320d	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-323a-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-324-5p	CMEP	GSE49035_REvsNoRE, GSE58606_LumBvsTNBC	down, up	Relaps, LumB vs TNBC
+hsa-miR-330-3p	CMEP	GSE49035_S3vsS2, GSE58606_HER2vsTNBC	down, up	Stage3 vs Stage2, Her2 vs TNBC
+hsa-miR-331-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-335-5p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-335-3p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-337-3p	CMEP	GSE58606_HER2vsTNBC, GSE49035_S3vsS2, GSE49035_REvsNoRE	up, up, up	Her2 vs TNBC, Stage3 vs Stage2, Relaps
+hsa-miR-337-5p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-339-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC, GSE22981_BCvsNorm	up, up, down	Her2 vs TNBC, LumB vs TNBC, BC vs Norm
+hsa-miR-33a-3p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up, up	LumA vs TNBC, LumB vs TNBC, Her2 vs TNBC
+hsa-miR-33b-5p	CMEP	GSE41526_BCvsNorm, GSE58606_LumBvsTNBC	down, up	BC vs Norm, LumB vs TNBC
+hsa-miR-340-3p	CMEP	GSE22981_BCvsNorm	down	BC vs Norm
+hsa-miR-342-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-miR-342-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-345-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-34a-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-34a-5p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-34b-3p	CMEP	GSE49035_S3vsS2, GSE58606_HER2vsTNBC	down, up	Stage3 vs Stage2, Her2 vs TNBC
+hsa-miR-34b-5p	CMEP	GSE58606_HER2vsTNBC, GSE22981_BCvsNorm, GSE49035_S3vsS2	up, down, down	Her2 vs TNBC, BC vs Norm, Stage3 vs Stage2
+hsa-miR-34c-5p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-3591-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3606-5p	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-3607-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-miR-3607-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up, up	Her2 vs TNBC, LumA vs TNBC, LumB vs TNBC
+hsa-miR-3613-3p	CMEP	GSE68373_MEvsNoME, GSE98181_BCvsNorm	down, down	Metastasis, BC vs Norm
+hsa-miR-3616-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-3618	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-362-3p	CMEP	GSE49035_REvsNoRE, GSE58606_HER2vsTNBC	down, up	Relaps, Her2 vs TNBC
+hsa-miR-362-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-363-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-363-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3648	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	down, down	LumB vs TNBC, LumA vs TNBC
+hsa-miR-3649	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3653-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-3655	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3660	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-3661	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3662	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3668	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-367-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3678-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-3683	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-3685	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-3687	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3689a-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-369-3p	CMEP	GSE58606_HER2vsTNBC, GSE49035_S3vsS2, GSE58606_LumBvsTNBC	up, up, down	Her2 vs TNBC, Stage3 vs Stage2, LumB vs TNBC
+hsa-miR-369-5p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-3692-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-372-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-374a-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-375	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-376a-3p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-376b-3p	CMEP	GSE41526_BCvsNorm, GSE49035_S3vsS2	up, up	BC vs Norm, Stage3 vs Stage2
+hsa-miR-376c-3p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-377-3p	CMEP	GSE41526_BCvsNorm, GSE49035_S3vsS2	up, up	BC vs Norm, Stage3 vs Stage2
+hsa-miR-377-5p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-378b	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-378c	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-378h	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-379-5p	CMEP	GSE41526_BCvsNorm, GSE58606_HER2vsTNBC	up, up	BC vs Norm, Her2 vs TNBC
+hsa-miR-379-3p	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-380-3p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-380-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-382-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-382-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-383-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, down, down	Her2 vs TNBC, LumB vs TNBC, LumA vs TNBC
+hsa-miR-384	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3908	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3910	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3912-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3913-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3920	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3938	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-3940-3p	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-3942-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-3942-5p	CMEP	GSE98181_BCvsNorm	down	BC vs Norm
+hsa-miR-3944-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-409-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-410-3p	CMEP	GSE22981_BCvsNorm, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	down, up, up, up	BC vs Norm, LumB vs TNBC, Her2 vs TNBC, LumA vs TNBC
+hsa-miR-411-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-411-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-421	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, down	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-423-5p	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-424-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-425-5p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-425-3p	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-4254	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-4255	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4264	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4266	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-4271	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4273	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4279	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4287	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-4289	CMEP	GSE58606_LumBvsTNBC	up	LumB vs TNBC
+hsa-miR-429	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up	LumA vs TNBC, LumB vs TNBC
+hsa-miR-4290	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, down	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-4291	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4292	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-4297	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4301	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4303	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4305	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4307	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4308	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-431-3p	CMEP	GSE49035_REvsNoRE, GSE22981_BCvsNorm	up, up	Relaps, BC vs Norm
+hsa-miR-4317	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-432-5p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-432-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4321	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4417	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4418	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-4422	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4423-3p	CMEP	GSE98181_BCvsNorm	down	BC vs Norm
+hsa-miR-4423-5p	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4424	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-4428	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4436a	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4438	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4439	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4444	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4446-3p	CMEP	GSE98181_BCvsNorm	up	BC vs Norm
+hsa-miR-4447	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4450	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, down	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-4462	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4465	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4468	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4477a	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, down	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-4477b	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4480	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4482-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4490	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4492	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4499	CMEP	GSE98181_BCvsNorm	up	BC vs Norm
+hsa-miR-449a	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-449b-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4501	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	down, down	LumA vs TNBC, LumB vs TNBC
+hsa-miR-4504	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4507	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-450a-1-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-450a-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	down, down	LumB vs TNBC, LumA vs TNBC
+hsa-miR-450b-3p	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-450b-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-451a	CMEP	GSE41526_BCvsNorm, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up, up	BC vs Norm, LumB vs TNBC, Her2 vs TNBC
+hsa-miR-452-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4520-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4524a-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4524a-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4524b-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4526	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4529-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, down	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-4532	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-4535	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4536-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4538	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	down, down	LumB vs TNBC, LumA vs TNBC
+hsa-miR-4540	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-455-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-455-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4633-5p	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4638-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4645-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-4645-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4648	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4654	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4659b-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, down	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-4660	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4661-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4664-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	down, down	LumB vs TNBC, LumA vs TNBC
+hsa-miR-4665-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4668-5p	CMEP	GSE98181_BCvsNorm	down	BC vs Norm
+hsa-miR-4670-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4676-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-4679	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4684-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, down	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-4690-5p	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4691-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4694-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4694-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-4696	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4697-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-4700-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4703-3p	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-4707-3p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, down, up	LumA vs TNBC, LumB vs TNBC, Her2 vs TNBC
+hsa-miR-4711-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4715-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4715-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4717-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-4724-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4727-3p	CMEP	GSE98181_BCvsNorm	up	BC vs Norm
+hsa-miR-4728-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4729	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-4731-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4732-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4733-3p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	down, down	LumA vs TNBC, LumB vs TNBC
+hsa-miR-4735-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4735-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-4736	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4742-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4751	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-4753-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4756-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4760-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4761-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4765	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4768-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4773	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4774-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4781-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4786-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-4789-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-4790-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4792	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4796-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4797-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-4799-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-4801	CMEP	GSE98181_BCvsNorm	down	BC vs Norm
+hsa-miR-4804-3p	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	down, up, down	LumA vs TNBC, Her2 vs TNBC, LumB vs TNBC
+hsa-miR-483-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-483-5p	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-486-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-486-5p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-488-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-490-5p	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-491-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-492	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-493-3p	CMEP	GSE49035_REvsNoRE, GSE22981_BCvsNorm	up, up	Relaps, BC vs Norm
+hsa-miR-493-5p	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-494-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-495-3p	CMEP	GSE49035_REvsNoRE, GSE49035_S3vsS2, GSE58606_HER2vsTNBC	up, up, up	Relaps, Stage3 vs Stage2, Her2 vs TNBC
+hsa-miR-496	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-497-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-miR-498	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, down	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-4999-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-499a-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-5000-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5000-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-5004-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5006-3p	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-5006-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5008-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-501-3p	CMEP	GSE49035_REvsNoRE, GSE58606_LumAvsTNBC	down, up	Relaps, LumA vs TNBC
+hsa-miR-5011-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-502-5p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-504-5p	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-505-3p	CMEP	GSE22981_BCvsNorm	down	BC vs Norm
+hsa-miR-506-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, down, up	LumA vs TNBC, LumB vs TNBC, Her2 vs TNBC
+hsa-miR-509-3-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-509-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-512-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-513a-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-513a-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	down, down	LumB vs TNBC, LumA vs TNBC
+hsa-miR-513b-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	down, down	LumA vs TNBC, LumB vs TNBC
+hsa-miR-514a-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-514b-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-515-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-516b-5p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-5188	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-518b	CMEP	GSE22981_BCvsNorm, GSE49035_S3vsS2	up, down	BC vs Norm, Stage3 vs Stage2
+hsa-miR-518c-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-518e-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-518f-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-518f-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-5193	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-5197-5p	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-519a-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-519c-3p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-520d-3p	CMEP	GSE49035_REvsNoRE, GSE49035_S3vsS2, GSE22981_BCvsNorm	down, down, up	Relaps, Stage3 vs Stage2, BC vs Norm
+hsa-miR-521	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-522-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-525-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-532-3p	CMEP	GSE58606_LumAvsTNBC, GSE49035_REvsNoRE	down, down	LumA vs TNBC, Relaps
+hsa-miR-539-5p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-539-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-542-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-543	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-548ac	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-548aj-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-548am-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-548an	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, up	LumA vs TNBC, Her2 vs TNBC
+hsa-miR-548ao-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-548at-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-548aw	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	up, up	Her2 vs TNBC, LumB vs TNBC
+hsa-miR-548d-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-548g-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	up, up, up	Her2 vs TNBC, LumA vs TNBC, LumB vs TNBC
+hsa-miR-548i	CMEP	GSE41526_BCvsNorm, GSE58606_HER2vsTNBC	down, up	BC vs Norm, Her2 vs TNBC
+hsa-miR-548j-5p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-548n	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-548p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-548s	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-548t-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-548u	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-548x-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-550a-3p	CMEP	GSE49035_REvsNoRE, GSE41526_BCvsNorm	down, up	Relaps, BC vs Norm
+hsa-miR-550b-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-551a	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	down, down	LumB vs TNBC, LumA vs TNBC
+hsa-miR-551b-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-551b-5p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-552-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5571-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-558	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-5582-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5583-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, down	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-5584-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC	down, down, up	LumB vs TNBC, LumA vs TNBC, Her2 vs TNBC
+hsa-miR-5584-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5586-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5588-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, down	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-5589-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-559	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-562	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-564	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5681a	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-5689	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-569	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-5692c	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-5698	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-570-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-5704	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-574-3p	CMEP	GSE22981_BCvsNorm	down	BC vs Norm
+hsa-miR-575	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-576-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-577	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-582-5p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-584-5p	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-585-3p	CMEP	GSE41526_BCvsNorm	down	BC vs Norm
+hsa-miR-588	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-589-5p	CMEP	GSE22981_BCvsNorm, GSE58606_HER2vsTNBC	up, up	BC vs Norm, Her2 vs TNBC
+hsa-miR-590-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-591	CMEP	GSE41526_BCvsNorm	down	BC vs Norm
+hsa-miR-595	CMEP	GSE22981_BCvsNorm	up	BC vs Norm
+hsa-miR-597-5p	CMEP	GSE41526_BCvsNorm	down	BC vs Norm
+hsa-miR-598-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-599	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-600	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-602	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-608	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-610	CMEP	GSE53179_BCvsNorm	up	BC vs Norm
+hsa-miR-612	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-624-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-625-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-627-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-628-5p	CMEP	GSE68373_MEvsNoME, GSE49035_REvsNoRE	down, up	Metastasis, Relaps
+hsa-miR-629-5p	CMEP	GSE41526_BCvsNorm, GSE58606_LumAvsTNBC	down, up	BC vs Norm, LumA vs TNBC
+hsa-miR-629-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-634	CMEP	GSE58606_LumAvsTNBC, GSE58606_HER2vsTNBC, GSE58606_LumBvsTNBC	down, up, down	LumA vs TNBC, Her2 vs TNBC, LumB vs TNBC
+hsa-miR-636	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-638	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-641	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-642b-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-646	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-647	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-650	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-652-3p	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-miR-654-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-655-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-656-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-658	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC	down, down	LumA vs TNBC, LumB vs TNBC
+hsa-miR-661	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-663b	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-665	CMEP	GSE49035_REvsNoRE	up	Relaps
+hsa-miR-668-3p	CMEP	GSE58606_LumAvsTNBC, GSE22981_BCvsNorm	down, down	LumA vs TNBC, BC vs Norm
+hsa-miR-6732-5p	CMEP	GSE98181_BCvsNorm	up	BC vs Norm
+hsa-miR-675-3p	CMEP	GSE68373_MEvsNoME	down	Metastasis
+hsa-miR-676-5p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-7-1-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-7-2-3p	CMEP	GSE58606_LumAvsTNBC	down	LumA vs TNBC
+hsa-miR-708-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-744-3p	CMEP	GSE58606_HER2vsTNBC, GSE22981_BCvsNorm	up, up	Her2 vs TNBC, BC vs Norm
+hsa-miR-759	CMEP	GSE58606_LumBvsTNBC, GSE58606_LumAvsTNBC	up, up	LumB vs TNBC, LumA vs TNBC
+hsa-miR-762	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-766-3p	CMEP	GSE58606_LumAvsTNBC, GSE98181_BCvsNorm	down, down	LumA vs TNBC, BC vs Norm
+hsa-miR-769-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-769-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-770-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-7855-5p	CMEP	GSE98181_BCvsNorm	down	BC vs Norm
+hsa-miR-8075	CMEP	GSE98181_BCvsNorm	down	BC vs Norm
+hsa-miR-873-3p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-874-3p	CMEP	GSE49035_S3vsS2	down	Stage3 vs Stage2
+hsa-miR-875-5p	CMEP	GSE58606_LumAvsTNBC	up	LumA vs TNBC
+hsa-miR-877-3p	CMEP	GSE49035_S3vsS2	up	Stage3 vs Stage2
+hsa-miR-888-5p	CMEP	GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	up, up	LumB vs TNBC, Her2 vs TNBC
+hsa-miR-889-3p	CMEP	GSE49035_REvsNoRE, GSE58606_HER2vsTNBC	up, up	Relaps, Her2 vs TNBC
+hsa-miR-9-3p	CMEP	GSE58606_LumAvsTNBC, GSE49035_REvsNoRE	down, down	LumA vs TNBC, Relaps
+hsa-miR-920	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-921	CMEP	GSE58606_LumBvsTNBC	down	LumB vs TNBC
+hsa-miR-922	CMEP	GSE22981_BCvsNorm, GSE58606_LumAvsTNBC	down, down	BC vs Norm, LumA vs TNBC
+hsa-miR-92a-3p	CMEP	GSE41526_BCvsNorm	up	BC vs Norm
+hsa-miR-92a-1-5p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-93-3p	CMEP	GSE58606_HER2vsTNBC, GSE58606_LumAvsTNBC	up, up	Her2 vs TNBC, LumA vs TNBC
+hsa-miR-934	CMEP	GSE58606_LumAvsTNBC, GSE58606_LumBvsTNBC, GSE58606_HER2vsTNBC	down, down, up	LumA vs TNBC, LumB vs TNBC, Her2 vs TNBC
+hsa-miR-937-3p	CMEP	GSE49035_REvsNoRE	down	Relaps
+hsa-miR-941	CMEP	GSE49035_REvsNoRE, GSE49035_S3vsS2	down, down	Relaps, Stage3 vs Stage2
+hsa-miR-95-3p	CMEP	GSE58606_HER2vsTNBC	up	Her2 vs TNBC
+hsa-miR-98-5p	CMEP	GSE22981_BCvsNorm	down	BC vs Norm
+hsa-miR-99a-3p	CMEP	GSE68373_MEvsNoME	down	Metastasis
